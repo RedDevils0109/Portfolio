@@ -13,7 +13,7 @@
     },
     {
         "title": "Project B",
-        "imageSrc": "ethereum-eth-logo.png",
+        "imageSrc": "worldcoin-org-wld-logo.png",
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": [
             "React",
@@ -38,7 +38,7 @@
     },
     {
         "title": "Project D",
-        "imageSrc": "dogecoin_logo.png",
+        "imageSrc": "dogecoin-doge-logo.png",
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": [
             "React",
@@ -62,7 +62,7 @@
     },
     {
         "title": "Project F",
-        "imageSrc": "png-transparent-bnb-cryptocurrencies-icon.png",
+        "imageSrc": "bnb-bnb-logo.png",
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": [
             "React",
@@ -74,7 +74,7 @@
     },
     {
         "title": "Project G",
-        "imageSrc": "Shiba_Inu_coin_logo.png",
+        "imageSrc": "xrp-xrp-logo.png",
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": [
             "React",
@@ -86,7 +86,7 @@
     },
     {
         "title": "Project H",
-        "imageSrc": "Shiba_Inu_coin_logo.png",
+        "imageSrc": "optimism-ethereum-op-logo.png",
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": [
             "React",
