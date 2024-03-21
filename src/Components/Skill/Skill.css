@@ -1,0 +1,91 @@
+@import "../../vars.css";
+
+.services {
+    background: var(--bg-color);
+    color: white;
+
+
+}
+
+.services h2 {
+    margin-bottom: 5rem;
+    color: white;
+}
+
+.services-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+
+
+
+    gap: 2.5rem;
+}
+
+.service-box {
+
+    background-color: var(--main-color);
+    color: black;
+    height: 250px;
+    border-radius: 4rem;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+
+}
+
+.service-box:hover {
+    background: white;
+    color: var(--bg-color);
+    transform: scale(1.03);
+}
+
+.service-box {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-height: 200px;
+    justify-content: center;
+    align-items: baseline;
+    padding: 5em;
+
+}
+
+.service-info h4 {
+    font-size: 3rem;
+    font-weight: 1000;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+
+.service-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* Two columns with equal width */
+    gap: 3rem;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    /* Adjust the gap size as needed */
+}
+
+.service-list li {
+    list-style-type: none;
+    font-size: 2.5rem;
+    font-weight: 500;
+
+
+    /* Remove default bullet points */
+}
+
+.service-list li i {
+    font-size: larger;
+}
+
+.service-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}

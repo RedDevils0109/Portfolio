@@ -1,0 +1,99 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "ethereum-eth-logo.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project B",
+        "imageSrc": "ethereum-eth-logo.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "Sass"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project C",
+        "imageSrc": "ethereum-eth-logo.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project D",
+        "imageSrc": "ethereum-eth-logo.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project E",
+        "imageSrc": "Shiba_Inu_coin_logo.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project F",
+        "imageSrc": "Shiba_Inu_coin_logo.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "Shiba_Inu_coin_logo.png",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project G",
+        "imageSrc": "Shiba_Inu_coin_logo.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project H",
+        "imageSrc": "Shiba_Inu_coin_logo.png",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    }
+]
